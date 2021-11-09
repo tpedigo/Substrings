@@ -1,0 +1,1 @@
+A Ruby script which creates a method to search a dictionary for a provided string. Demonstrated learned skills working with arrays, hashes, and enumerables.
