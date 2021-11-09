@@ -1,4 +1,5 @@
 def substring(string, dictionary)
+    string = string.to_s
     found_words = {}
     found_words.default = 0
     i = 0
